@@ -1043,3 +1043,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.20-09.17.13:158][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.04.20-09.17.13:165][ 44]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
 [2022.04.20-09.17.13:165][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-09.17.50:452][235]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MultiPlayer/WB_Menu.WB_Menu
+[2022.04.20-09.17.53:206][360]LogSlate: Window 'WB_Menu' being destroyed
+[2022.04.20-09.18.08:933][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiPlayer/WB_Menu" FILE="../../../../../../Users/marij/OneDrive/Desktop/007/VrMultiplayer/Content/MultiPlayer/WB_Menu.uasset" SILENT=true
+[2022.04.20-09.18.08:940][301]LogSavePackage: Moving '../../../../../../Users/marij/OneDrive/Desktop/007/VrMultiplayer/Saved/WB_Menu91D2BDFB477AFF44B70EE4A2BB07A4D8.tmp' to '../../../../../../Users/marij/OneDrive/Desktop/007/VrMultiplayer/Content/MultiPlayer/WB_Menu.uasset'
+[2022.04.20-09.18.08:956][301]AssetCheck: New page: Asset Save: WB_Menu
+[2022.04.20-09.18.08:956][301]LogContentValidation: Display: Validating WidgetBlueprint /Game/MultiPlayer/WB_Menu.WB_Menu
