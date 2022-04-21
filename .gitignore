@@ -38,3 +38,5 @@ sysinfo.txt
 Build/
 Saved/
 Binaries/
+Saved/logs/*
+*.log
