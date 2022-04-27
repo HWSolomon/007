@@ -65,6 +65,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BF3135407D3A0217EB5F171D2F1BA151F6315656",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "43D5187862730B58CD273BD2C4F085FB3D65DBC7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
 			"ShaderMapHash": "E8578C0BC7AC8C1A3F4CD2C4EA3B135E1D4568C8",
 			"Assets": [
 				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
@@ -91,18 +103,6 @@
 			"ShaderMapHash": "772421D72F12B13B944AD8385FCE4D0719E7DF47",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "BF3135407D3A0217EB5F171D2F1BA151F6315656",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "43D5187862730B58CD273BD2C4F085FB3D65DBC7",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
 			]
 		},
 		{
@@ -284,6 +284,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8381EB46AC81B6B2466D1E1982020E37AFADE2DB",
+			"Assets": [
+				"/Game/Models/General_Objects/Master_Material_emmisve"
+			]
+		},
+		{
+			"ShaderMapHash": "2E840A7C543E18B1275D61446961E6CD18A7BD80",
+			"Assets": [
+				"/Game/Models/Room_Kit/metal"
+			]
+		},
+		{
 			"ShaderMapHash": "D4B02E454BEEB53F0008E370F24D1D59B436CCEE",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Chair"
@@ -317,18 +329,6 @@
 			"ShaderMapHash": "68AB14974CF95B106912C17667A544FE67446296",
 			"Assets": [
 				"/Engine/BasicShapes/BasicShapeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "8381EB46AC81B6B2466D1E1982020E37AFADE2DB",
-			"Assets": [
-				"/Game/Models/General_Objects/Master_Material_emmisve"
-			]
-		},
-		{
-			"ShaderMapHash": "2E840A7C543E18B1275D61446961E6CD18A7BD80",
-			"Assets": [
-				"/Game/Models/Room_Kit/metal"
 			]
 		},
 		{
@@ -420,12 +420,6 @@
 			"ShaderMapHash": "44AD506431EE2631AA569579EC2E3EF354DC518E",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn"
-			]
-		},
-		{
-			"ShaderMapHash": "8BEBF850B91F879A5D71C0D6A01DD71DB6DE7142",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Basic_Floor"
 			]
 		},
 		{
@@ -549,6 +543,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FF8EB42E69D5714AA7CB6B9F3C27587C3A57FEC8",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
+			]
+		},
+		{
 			"ShaderMapHash": "2327E75511F82D680C139137FBF82BFCCA8EEE2A",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Concrete_Grime"
@@ -612,12 +612,6 @@
 			"ShaderMapHash": "6D75C2D9227BDFC93B0B35BB83A2EE72D963EB2C",
 			"Assets": [
 				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "FF8EB42E69D5714AA7CB6B9F3C27587C3A57FEC8",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Concrete_Panels"
 			]
 		},
 		{
@@ -694,9 +688,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F0609B0BA049372BFB48839A6AB78E58B54C5838",
+			"ShaderMapHash": "8BEBF850B91F879A5D71C0D6A01DD71DB6DE7142",
 			"Assets": [
-				"/Game/StarterContent/Materials/M_AssetPlatform"
+				"/Game/StarterContent/Materials/M_Basic_Floor"
 			]
 		},
 		{
@@ -746,6 +740,36 @@
 			"ShaderMapHash": "C6E11CF589B7C93F906EE66AD823C66EB665881F",
 			"Assets": [
 				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F0609B0BA049372BFB48839A6AB78E58B54C5838",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "E115E3E3B55E0D99BE6CB2160FEA6F660A461C59",
+			"Assets": [
+				"/Game/Models/Room_Kit/raste"
+			]
+		},
+		{
+			"ShaderMapHash": "DEA81FB6383B12C9A48AF7A98FA1D4AE5183EDC2",
+			"Assets": [
+				"/Game/Models/Room_Kit/gloss"
+			]
+		},
+		{
+			"ShaderMapHash": "CE78A3ED79E39AF94AD48509BAAA2903A7955A3B",
+			"Assets": [
+				"/Game/Models/Room_Kit/gloss1"
+			]
+		},
+		{
+			"ShaderMapHash": "F3D9D58021B126C09877C10A047534704520590C",
+			"Assets": [
+				"/Game/Models/Room_Kit/Glass"
 			]
 		},
 		{
@@ -812,30 +836,6 @@
 			"ShaderMapHash": "BD39568779E24F48A66242D058787B57879CF6DE",
 			"Assets": [
 				"/Game/Models/Room_Kit/raster"
-			]
-		},
-		{
-			"ShaderMapHash": "E115E3E3B55E0D99BE6CB2160FEA6F660A461C59",
-			"Assets": [
-				"/Game/Models/Room_Kit/raste"
-			]
-		},
-		{
-			"ShaderMapHash": "CE78A3ED79E39AF94AD48509BAAA2903A7955A3B",
-			"Assets": [
-				"/Game/Models/Room_Kit/gloss1"
-			]
-		},
-		{
-			"ShaderMapHash": "DEA81FB6383B12C9A48AF7A98FA1D4AE5183EDC2",
-			"Assets": [
-				"/Game/Models/Room_Kit/gloss"
-			]
-		},
-		{
-			"ShaderMapHash": "F3D9D58021B126C09877C10A047534704520590C",
-			"Assets": [
-				"/Game/Models/Room_Kit/Glass"
 			]
 		},
 		{

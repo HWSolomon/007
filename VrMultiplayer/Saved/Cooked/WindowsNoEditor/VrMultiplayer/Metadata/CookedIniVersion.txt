@@ -17,8 +17,8 @@ Windows.Engine:AssetRegistry:bFilterSearchableNames:0=true
 Windows.Engine:Core.System:LegacyBulkDataOffsets:0=False
 Windows.Engine:Core.System:CanUseUnversionedPropertySerialization:0=False
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FirstPersonBP/Maps/Game.Game
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Game/FirstPersonBP/Maps/Game.Game
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FirstPersonBP/Maps/EscapeTogether.EscapeTogether
+Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Game/FirstPersonBP/Maps/EscapeTogether.EscapeTogether
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
 Windows.Engine:SystemSettings:fx.NiagaraAllowRuntimeScalabilityChanges:0=1
@@ -62,9 +62,9 @@ Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:0=false
 Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBound=(Type="ERangeBoundTypesInclusive",Value=5),UpperBound=(Type="ERangeBoundTypesInclusive",Value=120))
 Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
 Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/FirstPersonBP/Maps/Game.Game
-Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FirstPersonBP/Maps/Game.Game
-Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Game/FirstPersonBP/Maps/Game.Game
+Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/FirstPersonBP/Maps/EscapeTogether.EscapeTogether
+Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FirstPersonBP/Maps/EscapeTogether.EscapeTogether
+Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Game/FirstPersonBP/Maps/EscapeTogether.EscapeTogether
 Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C
 Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
 Engine:/Script/EngineSettings.GameMapsSettings:TransitionMap:0=None
@@ -702,7 +702,7 @@ Engine:/Script/OculusHMD.OculusHMDRuntimeSettings:HandTrackingSupport:0=Controll
 Engine:/Script/OculusHMD.OculusHMDRuntimeSettings:FFRLevel:0=FFR_Medium
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/marij/OneDrive/Desktop/build")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/herbe/OneDrive/Desktop")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
