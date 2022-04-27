@@ -14,25 +14,8 @@ Windows.Engine:AssetRegistry:bSerializePackageData:0=false
 Windows.Engine:AssetRegistry:bFilterAssetDataWithNoTags:0=false
 Windows.Engine:AssetRegistry:bFilterDependenciesWithNoTags:0=false
 Windows.Engine:AssetRegistry:bFilterSearchableNames:0=true
-Windows.Engine:Core.System:LegacyBulkDataOffsets:0=False
-Windows.Engine:Core.System:CanUseUnversionedPropertySerialization:0=False
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/FirstPersonBP/Maps/Game.Game
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Game/FirstPersonBP/Maps/Game.Game
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C
-Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
-Windows.Engine:SystemSettings:fx.NiagaraAllowRuntimeScalabilityChanges:0=1
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
-Windows.Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=None
-Windows.Scalability:EffectsQuality@0:fx.Niagara.QualityLevel:0=0
-Windows.Scalability:EffectsQuality@1:fx.Niagara.QualityLevel:0=1
-Windows.Scalability:EffectsQuality@2:fx.Niagara.QualityLevel:0=2
-Windows.Scalability:EffectsQuality@3:fx.Niagara.QualityLevel:0=3
-Windows.Scalability:EffectsQuality@Cine:fx.Niagara.QualityLevel:0=4
 Engine:Core.System:CanStripEditorOnlyExportsAndImports:0=True
-Engine:Core.System:CanSkipEditorReferencedPackagesWhenCooking:0=False
 Engine:Core.System:DetailedCallstacksInNonMonolithicBuilds:0=True
-Engine:Core.System:UseSeperateBulkDataFiles:0=False
 Engine:Core.System:HangDuration:0=0.0
 Engine:/Script/UdpMessaging.UdpMessagingSettings:EnabledByDefault:0=False
 Engine:/Script/UdpMessaging.UdpMessagingSettings:EnableTransport:0=True
@@ -395,7 +378,6 @@ Engine:DevOptions.Shaders:bLogJobCompletionTimes:0=False
 Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 Engine:DevOptions.Shaders:BuildWorkerTimeToLive:0=1200
-Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 Engine:DevOptions.Shaders:bForceUseSCWMemoryPressureLimits:0=False
 Engine:LogFiles:PurgeLogsDays:0=5
 Engine:LogFiles:MaxLogFilesOnDisk:0=10
@@ -410,7 +392,6 @@ Engine:Kismet:bOptimizeExecutionFlowStack:0=true
 Engine:Kismet:bOptimizeAdjacentStates:0=true
 Engine:Kismet:bEnableInheritableComponents:0=true
 Engine:Kismet:bDeferDependencyLoads:0=true
-Engine:Kismet:bExecutionAfterReturn:0=false
 Engine:Kismet:bCanSuppressAccessViolation:0=false
 Engine:Kismet:bIgnoreCompileOnLoadErrorsOnBuildMachine:0=false
 Engine:/Script/Engine.Blueprint:bRecompileOnLoad:0=true
@@ -605,7 +586,7 @@ Engine:/Script/HardwareTargeting.HardwareTargetingSettings:AppliedDefaultGraphic
 Engine:/Script/Slate.SlateSettings:bExplicitCanvasChildZOrder:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/marij/OneDrive/Desktop/007/VrMultiplayer/Build")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/Marijn/Desktop")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -770,10 +751,6 @@ Editor:BlueprintEditor.Favorites:StarterProfile:4=(NodeName="/Script/BlueprintGr
 Editor:BlueprintEditor.Favorites:StarterProfile:5=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.ActorK2_DestroyActor")
 Editor:BlueprintEditor.Favorites:StarterProfile:6=(NodeName="/Script/BlueprintGraph.K2Node_CallFunction", FieldName="/Script/Engine.GameplayStaticsGetAllActorsOfClass")
 Editor:BlueprintEditor.Favorites:StarterProfile:7=(NodeName="/Script/BlueprintGraph.K2Node_SpawnActorFromClass")
-Editor:UI:ContentDirectories:0=/Game/UI
-Editor:UI:ContentDirectories:1=/Game/Widget
-Editor:UI:ContentDirectories:2=/Game/Widgets
-Editor:UI:ContentDirectories:3=/Engine/MobileResources
 Editor:UserDefinedStructure:bUseUserDefinedStructure:0=true
 Editor:CustomBlueprintFunctionLibrary:bCanCreateNew:0=true
 Editor:StructSerialization:SkipByteCodeSerialization:0=true
