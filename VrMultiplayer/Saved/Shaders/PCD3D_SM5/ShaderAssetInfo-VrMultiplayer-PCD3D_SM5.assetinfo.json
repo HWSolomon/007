@@ -65,18 +65,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BF3135407D3A0217EB5F171D2F1BA151F6315656",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "43D5187862730B58CD273BD2C4F085FB3D65DBC7",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
 			"ShaderMapHash": "E8578C0BC7AC8C1A3F4CD2C4EA3B135E1D4568C8",
 			"Assets": [
 				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
@@ -103,6 +91,18 @@
 			"ShaderMapHash": "772421D72F12B13B944AD8385FCE4D0719E7DF47",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "BF3135407D3A0217EB5F171D2F1BA151F6315656",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "43D5187862730B58CD273BD2C4F085FB3D65DBC7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
 			]
 		},
 		{
@@ -284,15 +284,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8381EB46AC81B6B2466D1E1982020E37AFADE2DB",
+			"ShaderMapHash": "E6ED7F007021FFC4C47AB0177B455B358CB82B09",
 			"Assets": [
-				"/Game/Models/General_Objects/Master_Material_emmisve"
+				"/Game/VirtualReality/Materials/GenericHMDMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "2E840A7C543E18B1275D61446961E6CD18A7BD80",
+			"ShaderMapHash": "F2C0F0F30DB4B9697730C96A1453DEBA8BD1AB31",
 			"Assets": [
-				"/Game/Models/Room_Kit/metal"
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BA641A0BADE95BC9AB546FE98739F410CDED6191",
+			"Assets": [
+				"/Game/TempMat"
 			]
 		},
 		{
@@ -305,12 +311,6 @@
 			"ShaderMapHash": "AFC9EFFBB3C23ECDC54FB95580060592242FD2B7",
 			"Assets": [
 				"/Engine/VREditor/BasicMeshes/M_Floor_01"
-			]
-		},
-		{
-			"ShaderMapHash": "F2C0F0F30DB4B9697730C96A1453DEBA8BD1AB31",
-			"Assets": [
-				"/Game/Geometry/Meshes/CubeMaterial"
 			]
 		},
 		{
@@ -332,6 +332,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8381EB46AC81B6B2466D1E1982020E37AFADE2DB",
+			"Assets": [
+				"/Game/Models/General_Objects/Master_Material_emmisve"
+			]
+		},
+		{
+			"ShaderMapHash": "2E840A7C543E18B1275D61446961E6CD18A7BD80",
+			"Assets": [
+				"/Game/Models/Room_Kit/metal"
+			]
+		},
+		{
 			"ShaderMapHash": "335044793A71396CC6FA5CC70AA29490AD308EEF",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -341,43 +353,6 @@
 			"ShaderMapHash": "5BD5ECFD9A51D06E4FBFF05297E55A9A07F107F9",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "85A008B7A519A655723F06405B431FF892428501",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_GridRotation",
-				"/Game/VRTemplate/Materials/MI_Grid_Default"
-			]
-		},
-		{
-			"ShaderMapHash": "8A914816F62BA6A9B5AA944983BEDB2CB87CE3CB",
-			"Assets": [
-				"/Game/VRTemplate/Materials/MI_Grid_Accent"
-			]
-		},
-		{
-			"ShaderMapHash": "2633ADBCBA1F0C89545153E77AC35550DF047BB5",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_Projectile"
-			]
-		},
-		{
-			"ShaderMapHash": "312E7EA21ACF8CAF105ABCCCF52F308E20B575C2",
-			"Assets": [
-				"/Game/FPWeapon/Materials/M_FPGun"
-			]
-		},
-		{
-			"ShaderMapHash": "1BAE34248AE37A21232C56B6088E1BFAB469BA70",
-			"Assets": [
-				"/Engine/EditorMaterials/MatineeCam_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "6D4BEE2705522A163187BCE689B066F504B1D60F",
-			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
@@ -543,12 +518,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FF8EB42E69D5714AA7CB6B9F3C27587C3A57FEC8",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Concrete_Panels"
-			]
-		},
-		{
 			"ShaderMapHash": "2327E75511F82D680C139137FBF82BFCCA8EEE2A",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Concrete_Grime"
@@ -609,9 +578,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6D75C2D9227BDFC93B0B35BB83A2EE72D963EB2C",
+			"ShaderMapHash": "FF8EB42E69D5714AA7CB6B9F3C27587C3A57FEC8",
 			"Assets": [
-				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+				"/Game/StarterContent/Materials/M_Concrete_Panels"
 			]
 		},
 		{
@@ -694,6 +663,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6D4BEE2705522A163187BCE689B066F504B1D60F",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "6D75C2D9227BDFC93B0B35BB83A2EE72D963EB2C",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
 			"ShaderMapHash": "99E36D7DEA48903514169D39B84E222787034808",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
@@ -770,6 +751,56 @@
 			"ShaderMapHash": "F3D9D58021B126C09877C10A047534704520590C",
 			"Assets": [
 				"/Game/Models/Room_Kit/Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "85A008B7A519A655723F06405B431FF892428501",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_GridRotation",
+				"/Game/VRTemplate/Materials/MI_Grid_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "8A914816F62BA6A9B5AA944983BEDB2CB87CE3CB",
+			"Assets": [
+				"/Game/VRTemplate/Materials/MI_Grid_Accent"
+			]
+		},
+		{
+			"ShaderMapHash": "2633ADBCBA1F0C89545153E77AC35550DF047BB5",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_Projectile"
+			]
+		},
+		{
+			"ShaderMapHash": "312E7EA21ACF8CAF105ABCCCF52F308E20B575C2",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "1BAE34248AE37A21232C56B6088E1BFAB469BA70",
+			"Assets": [
+				"/Engine/EditorMaterials/MatineeCam_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B2053C71FF773E4D639F78BAF204B2F7ABE76B9F",
+			"Assets": [
+				"/Game/Mannequin/Character/Materials/M_Male_Body",
+				"/Game/FirstPerson/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "68355A60317FCF133297A07B64B0CAB113FF1DEA",
+			"Assets": [
+				"/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "0AF03BFBA138CC86AD38E59573031A19407DE76B",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/BaseMaterial"
 			]
 		},
 		{
