@@ -41,8 +41,7 @@
 		{
 			"ShaderMapHash": "DC836852EA3CF56EDDB5F1ADEF6E81A2C26B6AAF",
 			"Assets": [
-				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
-				"/Game/CameraFeed/CameraMat1"
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
 			]
 		},
 		{
@@ -206,12 +205,18 @@
 			"ShaderMapHash": "EADB5F7406B4C44061D6762E19E2BC33FAA758F7",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/lambert4",
+				"/Game/Maps/Game/lambert3",
 				"/Game/keylock",
+				"/Game/Models/keypad/lambert6",
+				"/Game/engines",
 				"/Game/oldmapstuff/Engine_Room/Material",
 				"/Game/Models/Sleeping_quarter/lambert1",
 				"/Game/Models/Sleeping_quarter/Default_Material",
 				"/Game/Models/Room_Kit/aiStandardSurface2",
 				"/Game/Models/Hero_Props/lambert1",
+				"/Game/Models/lambert3",
+				"/Game/Models/case2",
 				"/Game/Engine_Room/Material",
 				"/Game/lambert1",
 				"/Game/aiStandardSurface2"
@@ -266,9 +271,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DDE12E9A7262196CC55C309242026E0241A9EB16",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_VRCursor"
+			]
+		},
+		{
 			"ShaderMapHash": "B4E7CCE4A75B7C6AD624C6AAFB25B6B64FE89BC2",
 			"Assets": [
 				"/Game/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient"
+			]
+		},
+		{
+			"ShaderMapHash": "E6ED7F007021FFC4C47AB0177B455B358CB82B09",
+			"Assets": [
+				"/Game/VirtualReality/Materials/GenericHMDMaterial"
 			]
 		},
 		{
@@ -284,18 +301,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DDE12E9A7262196CC55C309242026E0241A9EB16",
-			"Assets": [
-				"/Game/VRTemplate/Materials/M_VRCursor"
-			]
-		},
-		{
-			"ShaderMapHash": "E6ED7F007021FFC4C47AB0177B455B358CB82B09",
-			"Assets": [
-				"/Game/VirtualReality/Materials/GenericHMDMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "F2C0F0F30DB4B9697730C96A1453DEBA8BD1AB31",
 			"Assets": [
 				"/Game/Geometry/Meshes/CubeMaterial"
@@ -305,6 +310,66 @@
 			"ShaderMapHash": "BA641A0BADE95BC9AB546FE98739F410CDED6191",
 			"Assets": [
 				"/Game/TempMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B0F18D235A391939D1BA05953E46C529CB6C04E7",
+			"Assets": [
+				"/Game/Models/textures/table/tableandchair",
+				"/Game/Models/Room_Kit/textures/clean_wall",
+				"/Game/Models/textures/alarm_ligt/light",
+				"/Game/Models/Room_Kit/textures/beam/beams",
+				"/Game/Models/Hero_Props/textures/engines/egnine_1",
+				"/Game/Models/textures/barrel/box/box",
+				"/Game/Models/Room_Kit/textures/floor/floor_metal",
+				"/Game/Models/textures/barrel/barrels",
+				"/Game/Models/Room_Kit/textures/wall_B/wall_b",
+				"/Game/Models/textures/lockers/lockers",
+				"/Game/Models/textures/lockers/locker_doors",
+				"/Game/Models/Room_Kit/textures/rasterfloor/rasterfloor",
+				"/Game/Models/Kitchen/textures/koelkast/koelkast",
+				"/Game/Models/Kitchen/textures/koelkast/glass",
+				"/Game/Models/Kitchen/textures/kitchen",
+				"/Game/Models/Room_Kit/textures/railingkit/railing",
+				"/Game/Models/Room_Kit/textures/ladder/ladder",
+				"/Game/Models/Room_Kit/textures/ceiling/ceiling",
+				"/Game/Models/Hero_Props/textures/engines/egnine_4",
+				"/Game/Models/Hero_Props/textures/engines/egnine_3",
+				"/Game/Models/Hero_Props/textures/engines/egnine_2",
+				"/Game/Models/textures/keukenprops/keukenprops",
+				"/Game/Models/Kitchen/textures/fornuis/kraan"
+			]
+		},
+		{
+			"ShaderMapHash": "D99F4FC21102477614CD637B031AEA1642CE5804",
+			"Assets": [
+				"/Game/Transparent"
+			]
+		},
+		{
+			"ShaderMapHash": "13F6667A5876BC578D71729C2ED860713EA71036",
+			"Assets": [
+				"/Game/Battery4",
+				"/Game/Battery3",
+				"/Game/Battery2",
+				"/Game/Battery1",
+				"/Game/CasePuzzle",
+				"/Game/Models/textures/Keylocks",
+				"/Game/Models/Pipe_kit/textures/Pipe_S",
+				"/Game/Models/textures/barrel/metalcrate/metalcrate",
+				"/Game/Models/Room_Kit/textures/pillar/pillar"
+			]
+		},
+		{
+			"ShaderMapHash": "68AB14974CF95B106912C17667A544FE67446296",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CCBBD02B93387285899494AB8E430BB02069F5A1",
+			"Assets": [
+				"/Game/Models/Pipe_kit/textures/pipe_B"
 			]
 		},
 		{
@@ -321,28 +386,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2E840A7C543E18B1275D61446961E6CD18A7BD80",
+			"ShaderMapHash": "20C7BA0189272739B3D925B303C8241296790787",
 			"Assets": [
-				"/Game/oldmapstuff/Models/Room_Kit/metal",
-				"/Game/Models/Room_Kit/metal"
+				"/Game/Puzzles/VictoryThing/VictoryMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "13F6667A5876BC578D71729C2ED860713EA71036",
+			"ShaderMapHash": "60AF18D8278F077C2C282FD991630E66B1B371F2",
 			"Assets": [
-				"/Game/CasePuzzle"
-			]
-		},
-		{
-			"ShaderMapHash": "D99F4FC21102477614CD637B031AEA1642CE5804",
-			"Assets": [
-				"/Game/Transparent"
-			]
-		},
-		{
-			"ShaderMapHash": "68AB14974CF95B106912C17667A544FE67446296",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
+				"/Game/Models/keypad/keypadmat"
 			]
 		},
 		{
@@ -356,12 +408,6 @@
 			"ShaderMapHash": "68355A60317FCF133297A07B64B0CAB113FF1DEA",
 			"Assets": [
 				"/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
-			]
-		},
-		{
-			"ShaderMapHash": "20C7BA0189272739B3D925B303C8241296790787",
-			"Assets": [
-				"/Game/Puzzles/VictoryThing/VictoryMaterial"
 			]
 		},
 		{
@@ -386,6 +432,55 @@
 			"ShaderMapHash": "5BD5ECFD9A51D06E4FBFF05297E55A9A07F107F9",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1BAE34248AE37A21232C56B6088E1BFAB469BA70",
+			"Assets": [
+				"/Engine/EditorMaterials/MatineeCam_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "85A008B7A519A655723F06405B431FF892428501",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_GridRotation",
+				"/Game/VRTemplate/Materials/MI_Grid_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "8A914816F62BA6A9B5AA944983BEDB2CB87CE3CB",
+			"Assets": [
+				"/Game/VRTemplate/Materials/MI_Grid_Accent"
+			]
+		},
+		{
+			"ShaderMapHash": "2633ADBCBA1F0C89545153E77AC35550DF047BB5",
+			"Assets": [
+				"/Game/VRTemplate/Materials/M_Projectile"
+			]
+		},
+		{
+			"ShaderMapHash": "312E7EA21ACF8CAF105ABCCCF52F308E20B575C2",
+			"Assets": [
+				"/Game/FPWeapon/Materials/M_FPGun"
+			]
+		},
+		{
+			"ShaderMapHash": "AFC9EFFBB3C23ECDC54FB95580060592242FD2B7",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "6D75C2D9227BDFC93B0B35BB83A2EE72D963EB2C",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "0AF03BFBA138CC86AD38E59573031A19407DE76B",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/BaseMaterial"
 			]
 		},
 		{
@@ -702,12 +797,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6D75C2D9227BDFC93B0B35BB83A2EE72D963EB2C",
-			"Assets": [
-				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
 			"ShaderMapHash": "99E36D7DEA48903514169D39B84E222787034808",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
@@ -763,46 +852,80 @@
 			]
 		},
 		{
-			"ShaderMapHash": "AFC9EFFBB3C23ECDC54FB95580060592242FD2B7",
+			"ShaderMapHash": "2E840A7C543E18B1275D61446961E6CD18A7BD80",
 			"Assets": [
-				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+				"/Game/oldmapstuff/Models/Room_Kit/metal",
+				"/Game/Models/Room_Kit/metal"
 			]
 		},
 		{
-			"ShaderMapHash": "85A008B7A519A655723F06405B431FF892428501",
+			"ShaderMapHash": "2E5FBD8A2E0ADC4932F645C824FA418DE9AEE5BA",
 			"Assets": [
-				"/Game/VRTemplate/Materials/M_GridRotation",
-				"/Game/VRTemplate/Materials/MI_Grid_Default"
+				"/Game/Models/Room_Kit/textures/floor/floor"
 			]
 		},
 		{
-			"ShaderMapHash": "8A914816F62BA6A9B5AA944983BEDB2CB87CE3CB",
+			"ShaderMapHash": "E115E3E3B55E0D99BE6CB2160FEA6F660A461C59",
 			"Assets": [
-				"/Game/VRTemplate/Materials/MI_Grid_Accent"
+				"/Game/Models/Room_Kit/raste",
+				"/Game/oldmapstuff/Models/Room_Kit/raste"
 			]
 		},
 		{
-			"ShaderMapHash": "2633ADBCBA1F0C89545153E77AC35550DF047BB5",
+			"ShaderMapHash": "DEA81FB6383B12C9A48AF7A98FA1D4AE5183EDC2",
 			"Assets": [
-				"/Game/VRTemplate/Materials/M_Projectile"
+				"/Game/Models/Room_Kit/gloss",
+				"/Game/oldmapstuff/Models/Room_Kit/gloss"
 			]
 		},
 		{
-			"ShaderMapHash": "312E7EA21ACF8CAF105ABCCCF52F308E20B575C2",
+			"ShaderMapHash": "F96EF2DEEE8210FD667EFCBE0F0F44D12529477F",
 			"Assets": [
-				"/Game/FPWeapon/Materials/M_FPGun"
+				"/Game/Models/textures/barrel/crates/wooden_crates"
 			]
 		},
 		{
-			"ShaderMapHash": "1BAE34248AE37A21232C56B6088E1BFAB469BA70",
+			"ShaderMapHash": "37EBB1F6F988EC011FEA0AB2C5564E93EF90B7E2",
 			"Assets": [
-				"/Engine/EditorMaterials/MatineeCam_mat"
+				"/Game/Models/Room_Kit/textures/railing_b/railing_B"
 			]
 		},
 		{
-			"ShaderMapHash": "0AF03BFBA138CC86AD38E59573031A19407DE76B",
+			"ShaderMapHash": "F58F2103724694F9EA31132FD30F36BE1EB07632",
 			"Assets": [
-				"/Game/FirstPerson/Meshes/BaseMaterial"
+				"/Game/Models/Sleeping_quarter/textures/bed/bed"
+			]
+		},
+		{
+			"ShaderMapHash": "F2555BD3604289D7C19632B8ED8FF076EC9E7603",
+			"Assets": [
+				"/Game/Models/textures/keukenprops/NewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EFE30E419581310D6C37EED148531A4E01AFADEA",
+			"Assets": [
+				"/Game/Models/Room_Kit/textures/Wall_whitestripe"
+			]
+		},
+		{
+			"ShaderMapHash": "CE78A3ED79E39AF94AD48509BAAA2903A7955A3B",
+			"Assets": [
+				"/Game/Models/Room_Kit/gloss1",
+				"/Game/oldmapstuff/Models/Room_Kit/gloss1"
+			]
+		},
+		{
+			"ShaderMapHash": "F3D9D58021B126C09877C10A047534704520590C",
+			"Assets": [
+				"/Game/Models/Room_Kit/Glass",
+				"/Game/oldmapstuff/Models/Room_Kit/Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "10EACBE2ADFE7D3BF11B4ADEE7DCF0A6F05F02A9",
+			"Assets": [
+				"/Game/Models/Hero_Props/textures/engines/egnine_5"
 			]
 		},
 		{
@@ -867,38 +990,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F3D9D58021B126C09877C10A047534704520590C",
-			"Assets": [
-				"/Game/oldmapstuff/Models/Room_Kit/Glass",
-				"/Game/Models/Room_Kit/Glass"
-			]
-		},
-		{
 			"ShaderMapHash": "BD39568779E24F48A66242D058787B57879CF6DE",
 			"Assets": [
-				"/Game/oldmapstuff/Models/Room_Kit/raster",
-				"/Game/Models/Room_Kit/raster"
-			]
-		},
-		{
-			"ShaderMapHash": "E115E3E3B55E0D99BE6CB2160FEA6F660A461C59",
-			"Assets": [
-				"/Game/oldmapstuff/Models/Room_Kit/raste",
-				"/Game/Models/Room_Kit/raste"
-			]
-		},
-		{
-			"ShaderMapHash": "CE78A3ED79E39AF94AD48509BAAA2903A7955A3B",
-			"Assets": [
-				"/Game/oldmapstuff/Models/Room_Kit/gloss1",
-				"/Game/Models/Room_Kit/gloss1"
-			]
-		},
-		{
-			"ShaderMapHash": "DEA81FB6383B12C9A48AF7A98FA1D4AE5183EDC2",
-			"Assets": [
-				"/Game/oldmapstuff/Models/Room_Kit/gloss",
-				"/Game/Models/Room_Kit/gloss"
+				"/Game/oldmapstuff/Models/Room_Kit/raster"
 			]
 		},
 		{
@@ -911,7 +1005,23 @@
 		{
 			"ShaderMapHash": "77F0E2120D4CA1BB5F8CB4A270DF756AB3693DC8",
 			"Assets": [
+				"/Game/Models/textures/alarm_ligt/alarm",
+				"/Game/Models/Room_Kit/textures/cooking",
 				"/Game/Models/Room_Kit/textures/balk_MM"
+			]
+		},
+		{
+			"ShaderMapHash": "2812E2F04305C255AF2515083E51138B6422C53E",
+			"Assets": [
+				"/Game/Models/Room_Kit/raster"
+			]
+		},
+		{
+			"ShaderMapHash": "0B862E25F82384C621D088AB759B3F9FA0EB29B5",
+			"Assets": [
+				"/Game/Clue3",
+				"/Game/Clue1",
+				"/Game/Clue2"
 			]
 		}
 	]
