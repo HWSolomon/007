@@ -1,59 +1,51 @@
-# Project Title
+# Escape Together
 
-A short description about the project and/or client.
+Het idee is een multiplayer puzzle solver waarin de ene de puzzle moet oplossen en de andere de oplossing van de puzzle heeft. De een kan niet zonder de andere doorgaan en ze moeten communiceren om hun doel van ontsnappen voordat het schip zinkt te bereiken. .
 
-## Getting Started
+Neemt plaats op een zinkende boot waar je dus met een tikkende clock moet ontsnappen
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Made with
 
-The things you need before installing the software.
+* Trello
+* Github Desktop
+* Unreal Engine 4
+* Substance painter
+* Photoshop
+* Visual studio 2019
+* Blender
+* Maya
 
-* You need this
-* And you need this
-* Oh, and don't forget this
 
-### Installation
+### Installation Project
 
-A step by step guide that will tell you how to get the development environment up and running.
+Install it with the link below
 
 ```
-$ First step
-$ Another step
-$ Final step
+$ Download this [https://mediacollegeamsterdam-my.sharepoint.com/:u:/g/personal/25429_ma-web_nl/ERqbdf9gRU9GlgbS7Df2cpoBQUBFtH8aJ90isemV15Y14Q](https://github.com/HWSolomon/007)
+$ Unzip it
+$ Open the VRMultiplayer file and open the VrMultiplayer.uproject
+```
+
+### Installation Game
+
+Install it with the link below
+
+```
+$ Download this https://mediacollegeamsterdam-my.sharepoint.com/:u:/g/personal/25429_ma-web_nl/ERqbdf9gRU9GlgbS7Df2cpoBQUBFtH8aJ90isemV15Y14Q
+$ Unzip it
+$ Play the .exe file
 ```
 
 ## Usage
 
-A few examples of useful commands and/or tasks.
+De Simulatie Centrum van de marine heeft ons de opdracht gegeven om een multiplayer game te maken voor 2-100 spelers, Deze game moet gebaseerd zijn op dat je met elkaar moet communiceren.
 
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
+Buiten de criteria van “multiplayer” en gebaseerd zijn op “Communicatie” hebben wij vrije keuzen voor wat we willen maken. 
 
-## Deployment
+Wij maken dus een multiplayer first person escape room puzzle solver waar in de controle kamer de hints zijn en cameras terwijl de escaper hints krijgt van degene in de controle kamer over hoe hij de puzzels oplost.
 
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
 
-### Server
+### License
 
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
+This game is distributed under the name of MediaCollege Amsterdam.
